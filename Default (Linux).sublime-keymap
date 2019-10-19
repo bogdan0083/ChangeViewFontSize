@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift++"], "command": "increase_view_font_size" },
+	{ "keys": ["ctrl+shift+-"], "command": "decrease_view_font_size" }
+]
