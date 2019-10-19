@@ -4,4 +4,5 @@
 
 #### TODOS: 
 - [ ] add gif to demonstrate the functionality
+- [ ] add unit tests
 - [ ] upload to packagecontrol
